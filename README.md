@@ -19,7 +19,7 @@
 <hr/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="right" src="https://github-readme-stats.vercel.app/api?username=ppyye&show=prs_merged_percentage&hide=stars,contribs&show_icons=true&theme=nord&hide_title=true&rank_icon=github" />
+  <img height=130 align="right" src="https://github-readme-stats.vercel.app/api?username=ppyye&show=prs_merged_percentage&hide=stars,contribs&show_icons=true&theme=nord&hide_title=true&rank_icon=github" />
 </a>
 <div>
   <img src="https://img.shields.io/badge/Java-1572A9?style=for-the-badge&logo=openjdk&logoColor=white">
